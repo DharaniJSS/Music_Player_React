@@ -1,0 +1,15 @@
+/* Custom Styles */
+.custom-button {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .custom-button:hover {
+    transform: scale(1.1);
+  }
+  
